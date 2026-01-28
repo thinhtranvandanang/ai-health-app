@@ -1,0 +1,7 @@
+{
+  "name": "Sống Khỏe Vàng - Trợ Lý Sức Khỏe Cao Niên",
+  "description": "Ứng dụng quản lý sức khỏe toàn diện cho người cao tuổi, theo dõi tim mạch, vận động, cân nặng, giấc ngủ và chi phí y tế với sự hỗ trợ từ trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
